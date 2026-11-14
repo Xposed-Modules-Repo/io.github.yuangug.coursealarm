@@ -1,8 +1,8 @@
 # ColorOS 日历增强 · CourseAlarm
 
-> LSPosed 模块（modern libxposed API 102），给 ColorOS 日历补上「真正的课程表」：导入、主题、导出，以及第二天有早八时自动设闹钟。
+> LSPosed 模块（modern libxposed API 102），给 ColorOS 日历补上「真正的课程表」：导入、主题、导出，以及第二天自动设闹钟。
 
-**目标应用**：ColorOS 日历 `com.coloros.calendar`（16.24.2 实测，Android 16 / arm64）、时钟 `com.coloros.alarmclock`
+**目标应用**：ColorOS 日历 `com.coloros.calendar`（16.24.2 /17.0.0.101实测，Android 16/17 / arm64）、时钟 `com.coloros.alarmclock`
 **模块包名**：`io.github.yuangug.coursealarm`　|　**API**：102（staticScope）
 
 ## 功能
