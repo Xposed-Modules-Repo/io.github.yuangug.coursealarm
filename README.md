@@ -28,7 +28,7 @@
 每晚 21:00 检查第二天第一节，按设定提前量在系统时钟里建一次性闹钟（走 Clock 的 AI ContentProvider）。
 
 ## 兼容性
-- Android 16 / ColorOS 16 实测（PLC110）；宿主版本 16.24.2
+- Android 16/17 / ColorOS 16/17 实测（PLC110/PLR110）；宿主版本 16.24.2/17.3.70
 - LSPosed 2.2.1（API 102）；staticScope，作用域：`com.coloros.calendar`、`com.coloros.alarmclock`
 
 ## 已知限制
