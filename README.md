@@ -33,4 +33,5 @@
 - Android 16/17 / ColorOS 16/17 实测（PLC110/PLR110）；宿主版本 16.24.2/17.3.70
 - LSPosed 2.2.1（API 102）；staticScope，作用域：`com.coloros.calendar`、`com.coloros.alarmclock`
 
+### 有好的建议和需求欢迎提交issue ：Issue ('https://github.com/yuangug/coloros-calendar-enhance/issues')
 
